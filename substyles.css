@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(76, 198, 242);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  
+   #title{
+    max-width: 100%;
+   
+    justify-content: center;
+    object-fit: cover;
+   }
+
+
+  
+  #text{
+    font-size: 3vmin;
+    
+  }
+  
+  
+  
+  
+   
+   img{
+    max-width: 100%;
+  
+  
+     
+     justify-content: space-around;
+     object-fit: cover;
+     
+  
+    flex-wrap: wrap;
+   }
+   
+   
+   
+  
